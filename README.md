@@ -85,7 +85,10 @@ Analisis menunjukkan bahwa ada hubungan antara kenaikan gaji dan tingkat attriti
 Faktor lembur dan keseimbangan kerja-kehidupan memiliki dampak signifikan terhadap attrition. Karyawan yang sering lembur dan memiliki keseimbangan kehidupan kerja yang buruk lebih cenderung meninggalkan perusahaan.
 
 7. **Keseimbangan Kerja dan Kehidupan**:
-   Karyawan dengan tingkat kepuasan kerja yang baik cenderung tidak meninggalkan perusahaan. Perusahaan perlu memastikan lingkungan kerja yang mendukung dan kondusif untuk menurunkan tingkat attrition.
+
+Karyawan dengan tingkat kepuasan kerja yang baik cenderung tidak meninggalkan perusahaan. Perusahaan perlu memastikan lingkungan kerja yang mendukung dan kondusif untuk menurunkan tingkat attrition.
+
+<hr>
 
 Dashboard ini membantu perusahaan mengidentifikasi dan mengambil tindakan terhadap faktor-faktor yang berkontribusi pada tingkat attrition, seperti kompensasi, lingkungan kerja, dan keseimbangan kerja-kehidupan.
 
